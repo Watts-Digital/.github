@@ -1,1 +1,1 @@
-Welcome to Watts Digital!
+## 👋 Welcome to the Watts Digital community on GitHub
